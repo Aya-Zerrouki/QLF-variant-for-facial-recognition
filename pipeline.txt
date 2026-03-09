@@ -1,0 +1,25 @@
+UTKFace
+↓
+MTCNN
+↓
+Crop faces
+↓
+Resize 224x224
+↓
+Train / Val / Test split
+↓
+MODEL 1
+MobileNetV2 + Softmax
+↓
+Evaluation
+
+MODEL 2
+MobileNetV2 feature extraction
+↓
+PCA
+↓
+Feature Selection
+↓
+Fuzzy Logic
+↓
+Evaluation
